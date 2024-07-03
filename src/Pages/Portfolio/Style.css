@@ -1,0 +1,8 @@
+.btnShow{
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transition: .2s all;
+    transform: translate(-50%);
+    z-index: 3;
+}
